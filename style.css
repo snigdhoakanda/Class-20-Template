@@ -1,0 +1,93 @@
+/* header-section */
+
+main{
+    width: 100%;
+}
+header{
+    width: 100%;
+    height: 60px;
+    background-color: #e3f2fd;
+}
+.logo img{
+width: 50px;padding-top: 3%;
+
+}
+.menu ul{
+    list-style: none;
+    padding-top: 2.5%;
+    margin-left: -75px;
+}
+.menu ul li{
+display: inline-block;
+padding-left: 15px;
+}
+.menu ul li:first-child{
+    padding-left: 0px;
+}
+.menu ul li a{
+text-decoration: none;
+color: rgba(0, 0, 0, 0.49);
+}
+.menu ul li:first-child a{
+    color: black;
+}
+
+.menu ul li a:hover{
+color: rgba(0, 0, 0, 0.745);
+}
+.inputp{
+    padding-top: 4%;
+    margin-left: 50px;margin-right: 50px;
+}
+.btn1{
+    padding-top: .9%;
+    margin-left: -58px;
+}
+/* 2nd header  */
+
+.header2{
+
+}
+.input1 input{
+    background-color: #e9ebf1;
+    margin-top: 10px;
+}
+.input1:first-child input{
+    margin-top: 30px;
+}
+.toast1{
+    margin-top: 30px;
+}
+.container{
+    margin-left: 200px;
+}
+.small1{
+    margin-left: 170px;
+}
+
+/* banner-section  */
+.banner img{
+    width: 100%;
+    height: 500px;
+}
+.progress{
+    margin-top: 5px;
+}
+.text-center1{
+    margin-left: 30%;
+    margin-top: 15px;
+}
+.dropdown{
+    margin-top: -55px;
+    margin-left: 40%;
+}
+
+footer{
+    height:80px ;
+    width: 100%;
+    background-color: #0077ffd8;
+    display: block;
+    padding-top: 25px;
+    margin-top: 15px;
+    color: #e3f2fd;
+}
